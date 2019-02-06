@@ -16,7 +16,6 @@ let openCards = [];
 let pairs = [];
 let star_rating=3;
 
-
 /*
  * Display the cards on the page
  *   - shuffle the list of cards using the provided "shuffle" method below
