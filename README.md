@@ -1,7 +1,7 @@
 Memory Game Project
 ===================
 
-This project showcases a memory based game built using HTML, CSS and javascript. Dependencies include the font-awesome library which is used for the icons on the cards.
+This project made for Udacity's FEND showcases a memory based game built using HTML, CSS and javascript. Dependencies include the font-awesome library which is used for the icons on the cards.
 
 How to play:
 
